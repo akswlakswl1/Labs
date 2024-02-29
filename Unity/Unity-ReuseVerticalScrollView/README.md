@@ -72,3 +72,4 @@ public class ReuseVerticalScrollviewItemSample : ReuseVerticalScrollviewItem<Sam
 2. In the inspector of the scroll view, assign the created prefab. If you want to add spacing, set the spacing value.
 
 //사진추가
+(./Images/마지막실행.png)
