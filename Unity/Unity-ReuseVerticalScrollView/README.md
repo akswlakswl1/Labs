@@ -71,5 +71,5 @@ public class ReuseVerticalScrollviewItemSample : ReuseVerticalScrollviewItem<Sam
 1. Set the <font color="red">**pivot**</font> of the created scroll view item to <font color="red">**X=0, Y=1**</font>, and Make a prefab.
 2. In the inspector of the scroll view, assign the created prefab. If you want to add spacing, set the spacing value.
 
-
-(./Images/마지막실행.png)
+### Step4️5️⃣
+(./Images/play.png)
