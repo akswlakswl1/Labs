@@ -72,4 +72,5 @@ public class ReuseVerticalScrollviewItemSample : ReuseVerticalScrollviewItem<Sam
 2. In the inspector of the scroll view, assign the created prefab. If you want to add spacing, set the spacing value.
 
 ### Step4️5️⃣
-(./Images/play.png)
+1. Play the Scene
+<img src="./Images/play.png">
